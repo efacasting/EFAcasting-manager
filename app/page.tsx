@@ -23,9 +23,12 @@ className="rounded-xl bg-blue-600 p-4 text-white hover:bg-blue-700 text-center"
 📢 募集案件
 </Link>
 
-<button className="rounded-xl bg-green-600 p-4 text-white hover:bg-green-700">
+<Link
+href="/talents"
+className="rounded-xl bg-green-600 p-4 text-white hover:bg-green-700 text-center"
+>
 👤 タレント
-</button>
+</Link>
 
 <button className="rounded-xl bg-orange-500 p-4 text-white hover:bg-orange-600">
 📧 メール作成
